@@ -10,7 +10,7 @@
 | **Print progress percentage** | + | + |
 | **Multiple printers via a single bot** | + | – |
 | **Notifications via other services** | + | – |
-| **Splooman** | - | + |
+| **Spoolman** | - | + |
 
 ---
 !!! info
